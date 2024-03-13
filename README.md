@@ -39,5 +39,5 @@ Conduct a study to determine the preliminary conditions of situation existing in
 
 # 4. Results
 
-https://github.com/dc36205/Market_Study_of_Commercial_Establishments_in_LA/blob/main/imgs/barplot_avenues_most_restaurant_seatss.png
+![](https://github.com/dc36205/Market_Study_of_Commercial_Establishments_in_LA/blob/main/imgs/barplot_avenues_most_restaurant_seatss.png)
 
