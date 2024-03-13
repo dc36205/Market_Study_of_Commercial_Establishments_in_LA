@@ -28,9 +28,14 @@ Conduct a study to determine the preliminary conditions of situation existing in
 * object_type
 * number
 
+# 3. Technical Requirements
 
-# 3. EDA followed
+### Installed libraries
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* re
 
-# 4. Technical Requirements
+# 4. Results
 
-# 5. Results
