@@ -18,6 +18,17 @@ Conduct a study to determine the preliminary conditions of situation existing in
 * Number of instances - 9651
 * Number of attributes - 6
 
+Attribute information 
+
+Inputs
+. id 
+. object_name
+. address
+. chain 
+. object_type
+. number
+
+
 # 3. EDA followed
 
 # 4. Technical Requirements
