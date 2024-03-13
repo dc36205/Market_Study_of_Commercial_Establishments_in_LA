@@ -11,7 +11,7 @@ The main objective of this market study is to determine the preliminary conditio
 
 Table of Contents
 =================
-- [Project Overview](#getting-started)
+- [Problem Statement](#getting-started)
 - [EDA followed](#usage)
 - [Data Description](#usage)
 - [Technical Requirements](#usage)
