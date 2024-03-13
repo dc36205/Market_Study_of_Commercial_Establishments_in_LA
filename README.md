@@ -20,7 +20,7 @@ Conduct a study to determine the preliminary conditions of situation existing in
 
 ## Attribute information 
 
-Inputs
+### Inputs
 * id 
 * object_name
 * address
