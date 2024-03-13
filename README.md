@@ -10,6 +10,7 @@ The data is essentially concentrated in a single dataset that collects informati
 Table of Contents
 =================
 1. Problem Statement
+=================
 The main objective of this market study is to determine the preliminary conditions of the current situation existing in the target area in order to evaluate the possibilities of opening a new coffee trading establishment in the area.
 
 2. EDA followed
