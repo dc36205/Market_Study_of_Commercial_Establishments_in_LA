@@ -11,8 +11,8 @@ The main objective of this market study is to determine the preliminary conditio
 
 Table of Contents
 =================
-1. [Problem Statement]
-2. [EDA followed]
-3. [Data Description])
-4. [Technical Requirements]
-5. [Results]
+1. # Problem Statement
+2. # EDA followed
+3. # Data Description
+4. # Technical Requirements
+5. # Results
