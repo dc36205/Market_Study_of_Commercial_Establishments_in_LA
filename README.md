@@ -9,12 +9,11 @@ The data is essentially concentrated in a single dataset that collects informati
 
 # Table of Contents
 
-* [Problem Statement](#introduction)
+* [Problem Statement](#problem)
+* [Technical Requirements](#technical)
 * [Data Description](#data)
-* [Methodology](#methodology)
-* [Requirements](#requirements)
-* [Analysis](#analysis)
-* [Results and Discussion](#results)
+* [Data Cleaning and preparation](#preparation)
+* [EDA Exploratory Data Analysis](#eda)
 * [Conclusion](#conclusion)
 ----------------------------------------------
 # 1. Problem Statement
